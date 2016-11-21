@@ -1,0 +1,493 @@
+print blocks
+print song
+print artist
+print tree
+remove artist Blind Lemon Jefferson
+list artist Blind Lemon Jefferson
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+delete Bukka White<SEP>Bukka White's first song
+delete Blind Lemon Jefferson<SEP>Bukka White's first song
+print song
+delete Blind Lemon Jefferson<SEP>Long Lonesome Blues
+print artist
+insert Bukka White<SEP>Bukka White's first song
+print blocks
+print tree
+insert Charley Patton<SEP>Mississippi Boweavil Blues
+delete Bukka White<SEP>Mississippi Boweavil Blues
+remove artist Charley Patton
+insert Sleepy John Estes<SEP>Street Car Blues
+insert Bukka White<SEP>Bukka White's second song
+print blocks
+insert Another Bukka White<SEP>Bukka White's first song
+insert Bukka White<SEP>Bukka White's third song
+insert Another Bukka White<SEP>Bukka White's second song
+insert Bukka White<SEP>Bukka White's fourth song
+insert Another Bukka White<SEP>Bukka White's third song
+insert Johnny Winter<SEP>Bukka White's first song
+list artist Another Bukka White
+print tree
+delete Sleepy John Estes<SEP>Street Car Blues
+list song Bukka White's first song
+list artist Bukka White
+remove artist Bukka White
+print artist
+print song
+remove song Bukka White's first song
+print artist
+print song
+insert Johnny Winter<SEP>Johnny Winter's first song
+delete Another Bukka White<SEP>Bukka White's second song
+print blocks
+print artist
+print song
+insert Another Johnny Winter<SEP>Johnny Winter's first song
+print tree
+insert Johnny Winter<SEP>Johnny Winter's second song
+insert Johnny Winter<SEP>Johnny Winter's third song
+insert Another Johnny Winter<SEP>Johnny Winter's second song
+print tree
+insert Johnny Winter<SEP>Johnny Winter's first song
+insert Another Johnny Winter<SEP>Johnny Winter's third song
+insert Another Johnny Winter<SEP>Johnny Winter's fourth song
+print tree
+insert Another Johnny Winter<SEP>Johnny Winter's fifth song
+remove artist Bukka White
+list artist Another Johnny Winter
+print tree
+insert Bruce Rowland<SEP>Mountain Theme
+insert Thomas Dolby<SEP>She Blinded Me With Science
+insert Cheo Feliciano<SEP>Juguete
+insert Johnny Winter<SEP>Be Careful With A Fool
+print tree
+insert Bruce Rowland<SEP>Mountain Theme
+insert Thomas Dolby<SEP>She Blinded Me With Science
+insert Cheo Feliciano<SEP>Juguete
+insert Johnny Winter<SEP>Be Careful With A Fool
+insert Kings Of Leon<SEP>Wicker Chair
+insert Happy Mondays<SEP>Wrote For Luck (12 - Remastered version)
+insert Rita Chiarelli<SEP>Doggin' Around
+insert Tim Wilson<SEP>I Think My Wife Is Running Around On Me (Taco Hell)
+insert Ennio Morricone<SEP>Sporco Ma Distinto
+insert Tiny Bradshaw<SEP>Well Oh Well
+print artist
+remove artist Bruce Rowland
+print blocks
+remove artist Thomas Dolby
+print blocks
+remove song Mountain Theme
+print blocks
+insert 3 Doors Down<SEP>Sarah Yellin'
+print song
+print blocks
+insert Akon<SEP>Over The Edge
+insert Gerard Lenorman<SEP>Soldats Ne Tirez Pas
+insert All Time Low<SEP>Shameless
+insert Barenaked Ladies<SEP>This Is Where It Ends (Album Version)
+insert themselves<SEP>Oversleeping
+insert DJ Quik<SEP>Born and Raised In Compton
+insert Carl Smith<SEP>Hey Joe
+insert Jesus Jones<SEP>All The Answers
+insert Audio Adrenaline<SEP>My God (Audio Adrenaline Album Version)
+insert Chris Clark<SEP>If You Should Walk Away
+insert Loop Guru<SEP>The Mystery Epoch
+insert Chelsea<SEP>Decide
+insert Mr. Lif<SEP>For You
+remove artist All Time Low
+print blocks
+insert Aeoliah<SEP>For Your Passion My Love
+insert Kyle Riabko<SEP>Doesn't Get Much Better
+insert Gary Moore<SEP>What Are We Here For
+insert Faithless<SEP>Six
+remove song For You
+remove song My God (Audio Adrenaline Album Version)
+print blocks
+insert Y&T<SEP>Black Tiger
+print blocks
+insert 8Ball & MJG<SEP>Pimpin' Don't Fail Me Now [Featuring Jazze Pha and Juvenile] (Explicit Album Version)
+insert No Address<SEP>Pretty Girl (Amended Version)
+insert Green Day<SEP>Wake Me Up When September Ends (Live at Foxboro_ MA 9/3/05)
+insert Dream Warriors<SEP>Sound Clash (featuring Beenie Man) - FattaSly Extended Mix
+insert Charlie Peacock<SEP>Down in the Lowlands
+insert Paula Santoro<SEP>The Girl From Ipanema (Garota De Ipanema)
+insert Sylver<SEP>Sympathy
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+insert Dons<SEP>American Lovebite
+remove song Over The Hill
+print blocks
+insert Hot Chip<SEP>No
+insert Liam O'Flynn<SEP>Romeo's Exile
+insert Open Hand<SEP>11th Street
+insert Tilman Sillescu<SEP>Escape From The Underrealm
+remove artist Tilman Sillescu
+print blocks
+insert Novaspace<SEP>Dancing With Tears In My Eyes 2004 (Nova Mix (Club Version))
+insert The Ruby Suns<SEP>Function Of The Sun
+insert Buddy Miles<SEP>Don't Keep Me Wondering
+insert Esperanza Spalding / Leo Genovese<SEP>If That's True
+insert Dave Eggar<SEP>Deep Blue
+insert Michael Gettel<SEP>Safe Passage
+insert John Cale<SEP>Movement 4 [from Kiss] (Album Version)
+insert Jean Corti<SEP>C'Etait Bien
+insert L7<SEP>Baggage
+remove song C'Etait Bien
+print blocks
+remove song Baggage
+print blocks
+remove artist L7
+print blocks
+print artist
+print blocks
+insert Bruce Rowland<SEP>Mountain Theme
+insert Thomas Dolby<SEP>She Blinded Me With Science
+remove artist Bruce Rowland
+remove song Mountain Theme
+insert Cheo Feliciano<SEP>Juguete
+insert Johnny Winter<SEP>Be Careful With A Fool
+insert Kings Of Leon<SEP>Wicker Chair
+insert Happy Mondays<SEP>Wrote For Luck (12 - Remastered version)
+insert Rita Chiarelli<SEP>Doggin' Around
+insert Tim Wilson<SEP>I Think My Wife Is Running Around On Me (Taco Hell)
+insert Ennio Morricone<SEP>Sporco Ma Distinto
+insert Tiny Bradshaw<SEP>Well Oh Well
+insert 3 Doors Down<SEP>Sarah Yellin'
+insert Akon<SEP>Over The Edge
+remove artist akkkk
+remove song Over The Edge
+insert Gerard Lenorman<SEP>Soldats Ne Tirez Pas
+insert All Time Low<SEP>Shameless
+insert Barenaked Ladies<SEP>This Is Where It Ends (Album Version)
+insert themselves<SEP>Oversleeping
+insert DJ Quik<SEP>Born and Raised In Compton
+insert Carl Smith<SEP>Hey Joe
+insert Jesus Jones<SEP>All The Answers
+insert Audio Adrenaline<SEP>My God (Audio Adrenaline Album Version)
+insert Chris Clark<SEP>If You Should Walk Away
+insert Loop Guru<SEP>The Mystery Epoch
+insert Chelsea<SEP>Decide
+remove artist Kyle Riabko
+remove artist Carl Smith
+remove artist Jesus Jones
+remove artist Loop Guru
+remove artist Sylver
+remove artist Dons
+remove artist Dons
+remove artist Dons
+remove artist Dons
+print artist
+print song
+print blocks
+insert Silverstein<SEP>Always And Never (Album Version)
+insert David Arkenstone<SEP>The Forgotten Lands
+insert Dead Kennedys<SEP>Kill the Poor
+insert Placebo<SEP>The Never-Ending Why
+insert R.L. Burnside<SEP>Over The Hill
+insert Liquid Stranger<SEP>Drop Sacrifice
+insert Mr. Lif<SEP>For You
+insert Aeoliah<SEP>For Your Passion My Love
+insert Kyle Riabko<SEP>Doesn't Get Much Better
+insert Gary Moore<SEP>What Are We Here For
+insert Faithless<SEP>Six
+insert 8Ball & MJG<SEP>Pimpin' Don't Fail Me Now [Featuring Jazze Pha and Juvenile] (Explicit Album Version)
+insert No Address<SEP>Pretty Girl (Amended Version)
+insert Green Day<SEP>Wake Me Up When September Ends (Live at Foxboro_ MA 9/3/05)
+insert Dream Warriors<SEP>Sound Clash (featuring Beenie Man) - FattaSly Extended Mix
+insert Charlie Peacock<SEP>Down in the Lowlands
+insert Paula Santoro<SEP>The Girl From Ipanema (Garota De Ipanema)
+insert Sylver<SEP>Sympathy
+remove song Kill the Poor
+remove song The Never-Ending Why
+remove song Over The Hill
+remove song Drop Sacrifice
+remove song Sylver
+remove song Drop Sacrifice
+remove song Drop Sacrifice
+remove song Drop Sacrifice
+remove song The Girl From Ipanema (Garota De Ipanema)
+print artist
+print song
+print blocks
+insert Funeral For A Friend<SEP>Your Revolution Is A Joke
+insert Y&T<SEP>Black Tiger
+insert Dons<SEP>American Lovebite
+insert Hot Chip<SEP>No
+insert Sister Hazel<SEP>Cerilene
+insert Delirious<SEP>God You Are My God
+insert Winston McAnuff_ The Bazbaz Orchestra<SEP>Common sense
+insert Teenage Fanclub<SEP>The World'll Be OK
+insert Samy Deluxe<SEP>Die Meisten
+insert James Horner<SEP>Good Friend
+insert Jennifer Lopez featuring Ja Rule<SEP>I'm Real
+insert The Presets<SEP>If I Know You
+insert Arturo Sandoval<SEP>Waheera
+insert Drowning Pool<SEP>Reborn (Explicit)
+insert Faith Hill & Tim McGraw<SEP>Let's Make Love (Album Version)
+insert Gene Autry<SEP>Frankie And Johnny
+insert Sergio Mendes / Black Eyed Peas<SEP>Mas Que Nada
+insert Kassav'<SEP>Loko
+insert Liam O'Flynn<SEP>Romeo's Exile
+insert Open Hand<SEP>11th Street
+insert Tilman Sillescu<SEP>Escape From The Underrealm
+insert Novaspace<SEP>Dancing With Tears In My Eyes 2004 (Nova Mix (Club Version))
+insert The Ruby Suns<SEP>Function Of The Sun
+insert Buddy Miles<SEP>Don't Keep Me Wondering
+insert Esperanza Spalding / Leo Genovese<SEP>If That's True
+insert Dave Eggar<SEP>Deep Blue
+insert Michael Gettel<SEP>Safe Passage
+insert John Cale<SEP>Movement 4 [from Kiss] (Album Version)
+insert Jean Corti<SEP>C'Etait Bien
+insert L7<SEP>Baggage
+remove artist Jean Corti
+remove artist Jean Corti
+remove artist Richard Galliano
+remove song Movement 4 [from Kiss] (Album Version)
+remove song If That's True
+insert Richard Galliano<SEP>Honey Fingers
+insert 4Him<SEP>Strange Way To Save The World
+insert Winifred Phillips<SEP>Sporable
+remove song kkkkk
+remove song kkkkk
+remove song kkkkk
+remove song Strange Way To Save The World
+insert Otis Spann<SEP>Can't Do Me No Good
+insert Dokken<SEP>Disease
+insert David Summers<SEP>2.000 Kilometros
+insert Love Jones<SEP>Matter Of Fact
+insert The Motors<SEP>Dancing The Night Away
+insert Junior Reid<SEP>Boom-Shack-A-Lack (12 Mmix / Bonus Tra)
+insert Alexandre Desplat<SEP>Hidden Documents
+remove artist Love Jones
+remove artist The Motors
+remove song Hidden Documents
+remove song Dancing The Night Away
+remove artist Sergio Mendes / Black Eyed Peas
+remove artist Dokken
+remove artist Liam O'Flynn
+remove artist Teenage Fanclub
+insert Groupa<SEP>Bliv Du Till Gran (If You Became A Spruce)
+insert Regina Belle<SEP>Quiet Time
+insert Ricardo Lemvo<SEP>Yiri Yiri Bon
+insert Andreas Dorau<SEP>So ist das nun mal
+insert Enslavement Of Beauty<SEP>Ye That Tempteth_ Ye That Bequeth
+insert Little Milton<SEP>Walking The Back Streets And Crying
+insert Les Ogres De Barback<SEP>De rien
+insert KRS-One<SEP>Getaway
+insert Slim Whitman<SEP>Indian Love Call
+insert Simply Red<SEP>So Not Over You (Motivo-Pop Lectro Mix)
+insert Seguridad Social<SEP>Soc Mediterrani
+insert Chroma Key<SEP>Salvation
+insert The Paul Butterfield Blues Band<SEP>Pretty Woman (LP Version)
+insert The Sugarhill Gang<SEP>8th Wonder
+insert Symphony in Peril<SEP>Inherent Scars
+insert Helmet<SEP>Tic
+insert Behemoth<SEP>No Sympathy For Fools
+insert Alice Cooper<SEP>Make That Money (Scrooge's Song) (Album Version)
+insert Fat Joe<SEP>Prove Something (explicit album version)
+insert Francis Lai<SEP>13 jours en France
+insert RUN-DMC<SEP>King Of Rock
+insert Spongebob Squarepants<SEP>Ripped Pants
+insert Red Stick Ramblers<SEP>Why_ Now Baby?
+insert Obie Bermudez<SEP>Antes (Salsa Version)
+insert V V Brown<SEP>LEAVE!
+insert Bravehearts<SEP>Sensations
+insert Evanescence<SEP>Good Enough
+insert Everyday Sunday<SEP>Wake Up! Wake Up! (Wake Up! Wake Up! Album Version)
+insert Robben Ford<SEP>Talk To Your Daughter (Album Version)
+insert High Strung_ The<SEP>Show a Sign of Life
+insert Maroon 5<SEP>Sweetest Goodbye
+insert Hem<SEP>Redwing
+insert Bikini Machine<SEP>The Race
+insert Jackson United<SEP>Undertow
+insert White Willow<SEP>The Dark Road
+insert Guns N' Roses<SEP>Patience
+insert Kitaro<SEP>Harmony Of The Forest
+insert Talib Kweli<SEP>Everything Man (Album Version)
+insert Zeromancer<SEP>Send Me An Angel
+insert Baby Bash / Grimm<SEP>Changed My Life
+insert Rickie Lee Jones<SEP>Danny's All-Star Joint (LP Version)
+insert Beastie Boys<SEP>Get It Together
+insert Nightwish<SEP>Beauty And The Beast
+insert Teenage Fanclub<SEP>It's All In My Mind
+insert Commander Cody And His Lost Planet Airmen<SEP>Riot In Cell Block #9
+insert Jeremy Spencer<SEP>Maria De Santiago
+insert Memphis Minnie<SEP>Nothing In Rambling
+insert BoDeans<SEP>Lookin' For Me Somewhere
+insert Wesley Tuttle<SEP>With Tears In My Eyes
+insert The Plimsouls<SEP>Women
+insert The Killers<SEP>A Dustland Fairytale
+insert Juana Molina<SEP>Micael
+insert The Chap<SEP>Volumatic Spacer Device
+insert Aisha Duo<SEP>Sea_ Subsurface
+insert Sonora Carruseles<SEP>Chela
+insert Ensiferum<SEP>Into Battle
+insert Young-Holt Unlimited<SEP>We've Only Just Begun (LP Version)
+insert Oztara<SEP>La Route Est Belle
+insert Mithotyn<SEP>On Misty Pathways
+insert Albert Collins<SEP>Same Old Thing
+insert Bad Company<SEP>Crazy Circles
+insert John Frizzell<SEP>No Unexpected Guests
+insert Wyclef Jean<SEP>Heaven's In New York
+insert Agnostic Front<SEP>No One Hears You
+insert Orbital<SEP>Chime (edit)
+insert Butthole Surfers<SEP>22 Going On 23
+insert Torcuato Mariano<SEP>Black and Blue
+insert Bad Religion<SEP>The Lie
+insert The Chap<SEP>They Have a Name
+insert Natalie Cole<SEP>Busted
+insert Britney Spears<SEP>My Prerogative
+insert Freddie King<SEP>Five Long Years
+insert Eagles<SEP>You Never Cry Like A Lover (LP Version)
+insert Carlos Vives<SEP>Si Es Que Te Vas
+insert Manjul<SEP>Any Wich Way (Freedom Must Come)
+insert Donny Hathaway<SEP>I Love You More Than You'll Ever Know (LP Version)
+insert Zeromancer<SEP>Ammonite
+insert Adam Ant<SEP>Something Girls
+insert Sick Of It All<SEP>Burn 'Em Down (LP Version)
+insert Plump DJs<SEP>Contact 00
+insert Rihanna<SEP>Breakin' Dishes
+insert Cinder<SEP>The Ride (Album)
+insert Jah Cure<SEP>Freedom
+insert Foals<SEP>Red Socks Pugie
+insert Neil Diamond<SEP>Reminisce For A While (Sung With Raul Malo)
+insert Ten Years After<SEP>Year 3_000 Blues (2002 Digital Remaster)
+insert Lara & Reyes<SEP>Away In A Manger
+insert Eagles<SEP>Last Good Time In Town
+insert RUN-DMC<SEP>Hard Times
+insert Phantom Planet<SEP>After Hours
+insert Natasha Bedingfield<SEP>These Words
+insert KALIMBA<SEP>Al Final
+insert Basic Channel<SEP>Q Loop
+insert Phil Collins<SEP>Everyday
+insert Robert Palmer<SEP>Love Can Run Faster
+insert The Rolling Stones<SEP>Around And Around
+insert Stanley Clarke & George Duke<SEP>Finding My Way
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+insert Iggy Pop<SEP>Main Street Eyes
+insert Casiotone For The Painfully Alone<SEP>Dying Batteries
+insert Jean-Jacques Goldman<SEP>Comme Toi (Live)
+insert T-Bone<SEP>Ride Wit Me
+insert Les Ogres De Barback<SEP>Printemps
+insert Spinal Tap<SEP>The Majesty Of Rock
+insert My Chemical Romance<SEP>House Of Wolves (Album Version)
+insert Lightnin' Slim<SEP>My Babe
+insert Janis Joplin<SEP>Down On Me
+insert Elakelaiset<SEP>Pottajenkka
+insert Asleep At The Wheel<SEP>The Letter That Johnny Walker Read
+insert Jonny Lang<SEP>The One I Got
+insert Arthur Brown<SEP>Time / Confusion
+insert Less Than Jake<SEP>Short On Ideas / One Last Cigarette
+insert Toni Braxton<SEP>Let Me Show You The Way (Out)
+insert 45 Grave<SEP>Party Time
+insert The Birds<SEP>No Good Without You
+insert Astarte<SEP>Risen From Within
+insert Descendents<SEP>I'm Not A Loser
+insert Rance Allen Group<SEP>The Painter
+insert Bad Azz<SEP>Ghetto
+insert Kings Of Leon<SEP>Woo Hoo
+insert Home Town Hero<SEP>Bleeds In Blue (Album Version)
+insert FFH<SEP>Listen
+insert Paul Carrack<SEP>I'm On Your Tail
+insert Faith Hill<SEP>Better Days (Album Version)
+insert Eko Fresh feat. Ado<SEP>Ich bleib so wie ich bin
+insert Kitty Wells<SEP>Makin' Believe
+insert Don Francisco<SEP>Give Your Heart a Home
+insert Dream Warriors<SEP>Sound Clash
+insert Swami<SEP>Tonight
+insert Pyranja<SEP>Anfang Vom Ende
+insert The Cliks<SEP>Career Suicide (CD)
+insert Robben Ford<SEP>Spoonful
+insert Percy Mayfield<SEP>Please Send Me Someone To Love
+insert Human Disease<SEP>Gold Flames Of Angels
+insert Kelly Clarkson<SEP>Cry
+insert Inspiral Carpets<SEP>Commercial Reign
+insert Mastodon<SEP>The Czar: Usurper/Escape/Martyr/Spiral (Album Version)
+insert Bury Your Dead<SEP>A Devil's Ransom (Album Version)
+insert Rainbow<SEP>Can't Happen Here
+insert U2<SEP>Kite Live from Sydney
+insert Shamen<SEP>Scientas
+insert Guns N' Roses<SEP>Mama Kin
+insert The Field Mice<SEP>When Morning Comes To Town
+insert D:Fuse<SEP>Living The Dream
+insert Bad Company<SEP>Valerie (LP Version)
+insert Seventh Star<SEP>I Versus I
+insert James Taylor Quartet<SEP>Got To Give It Up
+insert Keb' Mo'<SEP>I Am Your Mother Too
+insert Dilated Peoples<SEP>Big Business
+insert Leona Naess<SEP>Heavy Like Sunday
+insert MIMS<SEP>Cop It
+insert Sister Hazel<SEP>Come Around (LP Version)
+insert Bert Kaempfert<SEP>Happy Safari
+insert Sleepy John Estes<SEP>Down South Blues
+insert Big Jay Oakerson<SEP>It's All In How You Look At It
+insert Stephen Pearcy<SEP>Freak
+insert Four Tet<SEP>Plastic People
+insert Simon & Garfunkel<SEP>Old Friends
+insert Lightnin' Hopkins<SEP>Everyday I Have The Blues
+insert Lost Boyz<SEP>Certain Things We Do
+insert Unwritten Law<SEP>Up All Night (Acoustic Live Album Version)
+insert Erick Sermon<SEP>Erick Sermon
+insert Super Cat<SEP>Oh It's You
+insert Alice Cooper<SEP>Be My Lover
+insert Danny Barnes<SEP>Big Girl Blues
+insert Jessica Simpson<SEP>Be
+insert Primordial<SEP>Journey's End
+insert Bone Thugs-N-Harmony<SEP>Murder One
+insert Fontella Bass<SEP>Rescue Me
+insert Love and Rockets<SEP>Sweet Lover Hangover
+insert Belle and Sebastian<SEP>Like Dylan In The Movies
+insert DMX<SEP>Damien
+insert Jimmy McCracklin<SEP>Gotta Cut Out
+insert NG3<SEP>Tainted Love feat. Tatz
+insert Tech N9ne<SEP>Caribou Lou
+insert Kool Moe Dee<SEP>How Ya Like Me Now
+insert Joe Rogan<SEP>Voodoo Punnany (Album Version)
+insert Helen Love<SEP>Bigbigkiss
+insert Mouth Of The Architect<SEP>Harboring An Apparition
+insert Neil Diamond<SEP>Song Sung Blue
+insert Otis Spann<SEP>No More Doggin'
+insert Winifred Phillips<SEP>Misty Bog
+insert The Gone Jackals<SEP>Not Buried Deep Enough
+insert Los Del Rio<SEP>Macarena
+insert Flowin Immo et Les Freaqz<SEP>Immonumental
+insert Atreyu<SEP>Gallows (Album Version)
+insert Dave Brockie Experience<SEP>Too Much Stuff
+insert Bersuit Vergarabat<SEP>De Onda
+insert Jim Breuer<SEP>Party In The Stomach (LP Version)
+insert BT feat. JES<SEP>Every Other Way
+insert Leigh Jones<SEP>Same Game
+insert One Block Radius<SEP>All On Our Own
+insert David Bowie<SEP>Moss Garden (1999 Digital Remaster)
+insert Irma Thomas<SEP>River Is Waiting
+insert Rooney<SEP>Jump In My Bed
+insert Chase & Status<SEP>Trapdoor
+insert Liars<SEP>Leather Prowler
+insert Lady Saw<SEP>To Sir With Love
+insert Casiotone For The Painfully Alone<SEP>Attic Room
+insert Agnostic Front<SEP>Come Alive
+insert Cradle Of Filth<SEP>Summer Dying Fast
+insert Alan Silvestri<SEP>The Joes Mobilize
+insert Johnny Winter<SEP>Shed So Many Tears
+insert Patton Oswalt<SEP>A Brief History of Shitty Comedy
+insert Shy FX & T Power<SEP>Feelings
+insert The Token<SEP>Come Dance With Me
+insert The Black Crowes<SEP>Nonfiction
+insert Del Tha Funkee Homosapien<SEP>Mistadobalina
+insert Arctic Monkeys<SEP>From The Ritz To The Rubble
+insert Sick Of It All<SEP>Consume (LP Version)
+insert Sugar Minott<SEP>A True
+insert Aerosmith<SEP>Angel
+insert themselves<SEP>Crayon Sharpener
+insert TAKARU<SEP>Idnnitkhtr
+insert Love Jones<SEP>I Like Young Girls
+insert Mikey Dread<SEP>Two Track Dub (Dub / Instrumental Reggae Music)
+insert Perrey And Kingsley<SEP>The Unidentified Flying Object
+insert 99 Posse<SEP>Salario Garantito (Versione Strumentale)
+insert Martin Denny<SEP>Manila
+remove artist 99 Posse
+remove song A True
+remove artist themselves
+remove song Crayon Sharpener
+print blocks
+print song
+print artist
