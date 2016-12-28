@@ -1,0 +1,26 @@
+remove song When Summer's Through
+print blocks
+print song
+print artist
+insert Blind Lemon Jefferson<SEP>Long Lonesome Blues
+insert Ma Rainey<SEP>Ma Rainey's Black Bottom
+insert Charley Patton<SEP>Mississippi Boweavil Blues
+insert Sleepy John Estes<SEP>Street Car Blues
+insert Bukka White<SEP>Fixin' To Die Blues
+insert Sleepy John Estes<SEP>Fixin' To Die Blues
+print artist
+print song
+print graph
+insert Guitar Slim<SEP>The Things That I Used To Do
+remove artist Style Council
+remove artist Ma Rainey
+remove song Mississippi Boweavil Blues
+remove song (The Best Part Of) Breakin' Up
+print blocks
+insert Blind Lemon Jefferson<SEP>Got The Blues
+insert Little Eva<SEP>The Loco-Motion
+print artist
+print song
+insert Jim Reeves<SEP>Jingle Bells
+insert Mongo Santamaria<SEP>Watermelon Man
+print blocks
