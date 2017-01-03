@@ -1,5 +1,6 @@
-# CS-3114---Advanced-Data-Structures-and-Algorithms (Fall 2016)
-Advanced Java Data structures and Algorithms --- Capstone programming class for Virginia Tech
+# CS-3114---Advanced-Data-Structures-and-Algorithms 
+# (Fall 2016)
+Advanced Java Data Structures and Algorithms --- Capstone programming class for Virginia Tech
 
 
 ### *Assignment 1:*
