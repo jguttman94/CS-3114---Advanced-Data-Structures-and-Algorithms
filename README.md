@@ -1,4 +1,4 @@
-# CS-3114 (Fall 2016)
+# CS 3114 (Fall 2016)
 ## Advanced Data Structures and Algorithms 
 Capstone programming class for Virginia Tech
 
