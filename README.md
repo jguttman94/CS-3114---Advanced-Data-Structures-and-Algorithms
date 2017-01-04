@@ -19,4 +19,4 @@ Capstone programming class for Virginia Tech
   Combined Assignment 3 and Assignment 1 to store data in Hash table controlled by disk buffers instead of memory pool. Designed graph       object to keep track of components and diameters of the largest connected component.
 
 
-### *The full write-ups for each project are denoted by the pdf in each corresponding project folder.*
+##### *The full write-ups for each project are denoted by the pdf in each corresponding project folder.*
